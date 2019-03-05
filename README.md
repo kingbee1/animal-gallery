@@ -1,2 +1,2 @@
 # animal-gallery
-Just a place to collate different images of beautiful wild animals.
+A website that archives different images of beautiful wild animals.
